@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
-googleAnalytics = "" 
+googleAnalytics = ""
 
 [params]
 
@@ -58,24 +58,24 @@ googleAnalytics = ""
 		headline = "All the expected amenities plus a whole lot more"
 
         [[params.services.list]]
-            icon = "fa-diamond"
-            title = "Sturdy Templates"
-            description = "Our templates are updated regularly so they don't break."
+            icon = "fa-bank"
+            title = "Home comforts"
+            description = "Strategically located in close proximity to all ammenites "
 
         [[params.services.list]]
-			icon = "fa-paper-plane"
-			title = "Ready to Ship"
-			description = "You can use this theme as is, or you can make changes!"
+			icon = "fa-child"
+			title = "Family Friendly"
+			description = "A perfect getaway for the whole family"
 
 		[[params.services.list]]
-            icon = "fa-newspaper-o"
-            title = "Up to Date"
-            description = "We update dependencies to keep things fresh."
+            icon = "fa-bed"
+            title = "Room for all"
+            description = "Fits a large group of up to 10 persons comfortably"
 
         [[params.services.list]]
             icon = "fa-heart"
-            title = "Made with Love"
-            description = "You have to make your websites with love these days!"
+            title = "A location you will love"
+            description = "Find as much peace as you want with it's ideal location"
 
 
     # Portfolio modals
